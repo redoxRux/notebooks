@@ -1,0 +1,28 @@
+[redoxrux.github.io]
+Login name: redoxrux
+Plan:
+
+This is my daily work ...
+
+When I accomplish something, I write a * line that day.
+
+Whenever a bug / missing feature is mentioned during the day and
+I don’t fix it, I make a note of it. Some things get noted many times
+before they get fixed.
+
+Occasionally I go back through the old notes and mark with a +
+the things I have since fixed.
+
+Prefix meanings:
+* - completed today
++ - completed later
+- - decided against
+(no prefix) - mentioned but not done
+
+Initially, I thought of not implementing it; but anyway, we have this now!
+
+
+--- rux
+
+= Sep 29 2025 ===================================
+* create notebook repo
